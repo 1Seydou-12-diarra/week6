@@ -9,15 +9,15 @@
 <body>
     <?php 
     
-    $nombre = 5;
-	while($nombre <= 15)
-	{
-	  echo $nombre; 
-	  echo "\n </br>";
-	 
-	  $nombre++;
-    
-	}
+        $nombre = 5;
+        while($nombre <= 15)
+        {
+        echo $nombre; 
+        echo "\n </br>";
+        
+        $nombre++;
+        
+        }
     
     ?>
 </body>
